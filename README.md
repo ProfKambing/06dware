@@ -1,2 +1,2 @@
-# 06dware-
+# 06dware
 literally phobos lel
